@@ -8,7 +8,7 @@ Welcome to my **Cybersecurity Portfolio**! This repository showcases my professi
 - **LinkedIn:** [Gareth Sheldon](https://www.linkedin.com/n/gareth-sheldon)  
 ---
 
-## � Career Experience
+## Career Experience
 
 ### **Senior Technical and Cybersecurity Engineer**  
 **Gavotech IT Solutions**  
@@ -103,12 +103,6 @@ Welcome to my **Cybersecurity Portfolio**! This repository showcases my professi
 
 ### **J.P. Morgan & Co. Commercial Banking Virtual Experience**  
 - Conducted financial statement analysis, created capitalization tables, and built 10-year financial models to support strategic decision-making.  
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
