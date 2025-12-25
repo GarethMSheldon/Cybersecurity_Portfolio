@@ -11,7 +11,6 @@ Welcome to my **Cybersecurity Portfolio**! This repository showcases my professi
 ## Career Experience
 
 ### **Senior Technical and Cybersecurity Engineer**  
-**Gavotech IT Solutions**  
 *Network and Security Administration*  
 
 - Configured **Sophos XG** and **FortiGate firewalls**, reducing network breaches by **30%** and enhancing VPN security across regions.  
